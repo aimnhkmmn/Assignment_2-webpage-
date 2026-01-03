@@ -48,8 +48,8 @@ export function Contact() {
                   <Mail className="w-6 h-6 text-white" />
                 </div>
                 <h3 className="text-gray-900 mb-2">Email Us</h3>
-                <a href="mailto:hello@nexgensolutions.com" className="text-purple-700 hover:text-purple-800">
-                  hello@nexgensolutions.com
+                <a href="mailto:nexgensolutions@gmail.com" className="text-purple-700 hover:text-purple-800">
+                  nexgensolutions@gmail.com
                 </a>
                 <p className="text-sm text-gray-600 mt-2">We'll respond within 24 hours</p>
               </div>
@@ -63,7 +63,7 @@ export function Contact() {
                 </div>
                 <h3 className="text-gray-900 mb-2">Call Us</h3>
                 <a href="tel:+1234567890" className="text-teal-700 hover:text-teal-800">
-                  +1 (234) 567-890
+                  +60 12-345 6789
                 </a>
                 <p className="text-sm text-gray-600 mt-2">Mon-Fri 8AM-5PM GMT+8</p>
               </div>

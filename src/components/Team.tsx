@@ -14,7 +14,7 @@ const teamMembers = [
     name: 'Muhammad Danish Harith',
     position: 'CTO & Co-Founder',
     bio: 'Software architect specializing in microservices and IoT solutions. Loves solving complex technical challenges.',
-    image: '/Harith.jpeg',
+    image: '/Harith.jpg',
     linkedin: 'https://www.linkedin.com/in/m-danish-harith-6459b029b/',
     github: 'https://github.com/DnshHarith',
     gradient: 'from-blue-600 to-cyan-600'
