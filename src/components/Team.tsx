@@ -2,10 +2,10 @@ import { Linkedin, Github, Mail } from 'lucide-react';
 
 const teamMembers = [
   {
-    name: 'Sarah Chen',
+    name: 'Muhammad Aiman Hakim Kasman',
     position: 'CEO & Co-Founder',
     bio: 'Full-stack developer with expertise in cloud architecture and team leadership. Passionate about building scalable solutions.',
-    image: 'https://images.unsplash.com/photo-1762341116897-921e2a52f7ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHdvbWFuJTIwdGVjaHxlbnwxfHx8fDE3NjcxMDk0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQE4vfMpUdRJ2A/profile-displayphoto-crop_800_800/B56Zs1cLApJsAQ-/0/1766128142776?e=1769040000&v=beta&t=ZU8Ewxiu0oc_dEVckB67bThxG_PN5A0vRhxjQ97KLc0',
     linkedin: '#',
     github: '#',
     gradient: 'from-purple-600 to-pink-600'
