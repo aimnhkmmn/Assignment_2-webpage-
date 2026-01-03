@@ -65,7 +65,7 @@ export function Contact() {
                 <a href="tel:+1234567890" className="text-teal-700 hover:text-teal-800">
                   +1 (234) 567-890
                 </a>
-                <p className="text-sm text-gray-600 mt-2">Mon-Fri 9AM-6PM PST</p>
+                <p className="text-sm text-gray-600 mt-2">Mon-Fri 8AM-5PM GMT+8</p>
               </div>
             </div>
 
@@ -77,9 +77,8 @@ export function Contact() {
                 </div>
                 <h3 className="text-gray-900 mb-2">Visit Us</h3>
                 <p className="text-gray-700">
-                  123 Innovation Drive<br />
-                  Tech Park, Silicon Valley<br />
-                  CA 94025, USA
+                  Universiti Sains Malaysia<br />
+                  11800 USM Penang, Malaysia
                 </p>
               </div>
             </div>

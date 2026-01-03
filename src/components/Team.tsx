@@ -11,12 +11,12 @@ const teamMembers = [
     gradient: 'from-purple-600 to-pink-600'
   },
   {
-    name: 'Michael Rodriguez',
+    name: 'Muhammad Danish Harith',
     position: 'CTO & Co-Founder',
     bio: 'Software architect specializing in microservices and IoT solutions. Loves solving complex technical challenges.',
-    image: 'https://images.unsplash.com/photo-1719400471588-575b23e27bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBzb2Z0d2FyZSUyMGRldmVsb3BlcnxlbnwxfHx8fDE3NjcxMDk0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    linkedin: '#',
-    github: '#',
+    image: '/Harith.jpeg',
+    linkedin: 'https://www.linkedin.com/in/m-danish-harith-6459b029b/',
+    github: 'https://github.com/DnshHarith',
     gradient: 'from-blue-600 to-cyan-600'
   },
   {
