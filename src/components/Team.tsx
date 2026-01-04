@@ -6,8 +6,8 @@ const teamMembers = [
     position: 'CEO & Co-Founder',
     bio: 'Full-stack developer with expertise in cloud architecture and team leadership. Passionate about building scalable solutions.',
     image: 'https://media.licdn.com/dms/image/v2/D5603AQE4vfMpUdRJ2A/profile-displayphoto-crop_800_800/B56Zs1cLApJsAQ-/0/1766128142776?e=1769040000&v=beta&t=ZU8Ewxiu0oc_dEVckB67bThxG_PN5A0vRhxjQ97KLc0',
-    linkedin: '#',
-    github: '#',
+    linkedin: 'https://www.linkedin.com/in/muhammad-aiman-hakim-kasman-b70334326/',
+    github: 'https://github.com/aimnhkmmn',
     gradient: 'from-purple-600 to-pink-600'
   },
   {
@@ -24,8 +24,8 @@ const teamMembers = [
     position: 'Lead Frontend Developer',
     bio: 'React and UI/UX specialist focused on creating beautiful, intuitive user experiences that users love.',
     image: '\GAMBAR PASSPORT.jpg',
-    linkedin: '#',
-    github: '#',
+    linkedin: 'https://www.linkedin.com/in/afiq-harraz-b72216270/',
+    github: 'https://github.com/harrazz05',
     gradient: 'from-green-600 to-teal-600'
   },
   {
