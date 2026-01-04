@@ -20,10 +20,10 @@ const teamMembers = [
     gradient: 'from-blue-600 to-cyan-600'
   },
   {
-    name: 'David Kim',
+    name: 'Mohammad Afiq Harraz bin Jumang Adha',
     position: 'Lead Frontend Developer',
     bio: 'React and UI/UX specialist focused on creating beautiful, intuitive user experiences that users love.',
-    image: 'https://images.unsplash.com/photo-1524538198441-241ff79d153b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHByb2Zlc3Npb25hbCUyMG1hbnxlbnwxfHx8fDE3NjcwMzYzNzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: '\GAMBAR PASSPORT.jpg',
     linkedin: '#',
     github: '#',
     gradient: 'from-green-600 to-teal-600'
