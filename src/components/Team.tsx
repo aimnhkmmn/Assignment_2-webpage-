@@ -15,7 +15,7 @@ const teamMembers = [
     position: 'CTO & Co-Founder',
     bio: 'Software architect specializing in microservices and IoT solutions. Loves solving complex technical challenges.',
     image: '/Harith.jpg',
-    linkedin: 'https://www.linkedin.com/in/m-danish-harith-6459b029b/',
+    linkedin: '\Gambar_Aiman.jpeg',
     github: 'https://github.com/DnshHarith',
     gradient: 'from-blue-600 to-cyan-600'
   },
@@ -32,9 +32,9 @@ const teamMembers = [
     name: 'Muhammad Aisar Zamzuree',
     position: 'Lead Backend Developer',
     bio: 'Backend engineer with deep knowledge in Node.js, databases, and API design. Ensuring robust and secure systems.',
-    image: 'https://media.licdn.com/dms/image/v2/D4D03AQE1_J_DtdDqAw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709551524472?e=1769040000&v=beta&t=ULFp8rhhFjz03UNZh6wWSjYwKmeDTVMFS1Jj2ojCP5U',
-    linkedin: '#',
-    github: '#',
+    image: '\GAMBAR_AISAR.jpg',
+    linkedin: 'https://www.linkedin.com/in/muhammad-aisar-zamzuree-a8a21a2b8/',
+    github: 'https://github.com/aisarz1234-beep',
     gradient: 'from-orange-600 to-red-600'
   }
 ];
