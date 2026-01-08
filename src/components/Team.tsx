@@ -11,7 +11,7 @@ const teamMembers = [
     gradient: 'from-purple-600 to-pink-600'
   },
   {
-    name: 'Muhammad Danish Harith',
+    name: 'Muhammad Danish Harith bin MD Nasri',
     position: 'CTO & Co-Founder',
     bio: 'Software architect specializing in microservices and IoT solutions. Loves solving complex technical challenges.',
     image: '/Gambar_harith.jpg',
@@ -29,7 +29,7 @@ const teamMembers = [
     gradient: 'from-green-600 to-teal-600'
   },
   {
-    name: 'Muhammad Aisar Zamzuree',
+    name: 'Muhammad Aisar bin Zamzuree',
     position: 'Lead Backend Developer',
     bio: 'Backend engineer with deep knowledge in Node.js, databases, and API design. Ensuring robust and secure systems.',
     image: '/GAMBAR_AISAR.jpg',
