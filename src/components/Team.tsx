@@ -5,7 +5,7 @@ const teamMembers = [
     name: 'Muhammad Aiman Hakim Kasman',
     position: 'CEO & Co-Founder',
     bio: 'Full-stack developer with expertise in cloud architecture and team leadership. Passionate about building scalable solutions.',
-    image: 'https://media.licdn.com/dms/image/v2/D5603AQE4vfMpUdRJ2A/profile-displayphoto-crop_800_800/B56Zs1cLApJsAQ-/0/1766128142776?e=1769040000&v=beta&t=ZU8Ewxiu0oc_dEVckB67bThxG_PN5A0vRhxjQ97KLc0',
+    image: '/Gambar_Aiman.jpeg',
     linkedin: 'https://www.linkedin.com/in/muhammad-aiman-hakim-kasman-b70334326/',
     github: 'https://github.com/aimnhkmmn',
     gradient: 'from-purple-600 to-pink-600'
@@ -14,8 +14,8 @@ const teamMembers = [
     name: 'Muhammad Danish Harith',
     position: 'CTO & Co-Founder',
     bio: 'Software architect specializing in microservices and IoT solutions. Loves solving complex technical challenges.',
-    image: '/Harith.jpg',
-    linkedin: '\Gambar_Aiman.jpeg',
+    image: '/Gambar_harith.jpg',
+    linkedin: 'https://www.linkedin.com/in/m-danish-harith-6459b029b/',
     github: 'https://github.com/DnshHarith',
     gradient: 'from-blue-600 to-cyan-600'
   },
@@ -23,7 +23,7 @@ const teamMembers = [
     name: 'Mohammad Afiq Harraz bin Jumang Adha',
     position: 'Lead Frontend Developer',
     bio: 'React and UI/UX specialist focused on creating beautiful, intuitive user experiences that users love.',
-    image: '\GAMBAR PASSPORT.jpg',
+    image: '/GAMBAR PASSPORT.jpg',
     linkedin: 'https://www.linkedin.com/in/afiq-harraz-b72216270/',
     github: 'https://github.com/harrazz05',
     gradient: 'from-green-600 to-teal-600'
@@ -32,7 +32,7 @@ const teamMembers = [
     name: 'Muhammad Aisar Zamzuree',
     position: 'Lead Backend Developer',
     bio: 'Backend engineer with deep knowledge in Node.js, databases, and API design. Ensuring robust and secure systems.',
-    image: '\GAMBAR_AISAR.jpg',
+    image: '/GAMBAR_AISAR.jpg',
     linkedin: 'https://www.linkedin.com/in/muhammad-aisar-zamzuree-a8a21a2b8/',
     github: 'https://github.com/aisarz1234-beep',
     gradient: 'from-orange-600 to-red-600'
