@@ -1,21 +1,48 @@
-# React + TypeScript + Vite
+NexGen Solutions - Digital Innovation Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CAT201: Integrated Software Development Workshop (Assignment 2) 
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
-## Deploy Your Own
+NexGen Solutions is a modern IT-related company founded by a collective of computer science graduates. This project demonstrates our capability to build a professional, responsive, and integrated web platform using modern development tools like Node.js and React.js.
++1
 
-Deploy your own Vite project with Vercel.
+🚀 Project Overview
+Our platform introduces the company's background, core missions, and the wide range of IT services we offer, from web development to IoT solutions. The site is designed to be fully responsive, ensuring a seamless experience across desktop and mobile devices.
++1
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
+Core Features
 
-_Live Example: https://vite-react-example.vercel.app_
+Dynamic UI: Built with React.js for a fast, component-based user experience.
++1
 
-### Deploying From Your Terminal
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+Comprehensive Services: Detailed sections for Web Dev, Mobile Apps, IoT, Cloud Services, Database Design, and IT Consulting.
 
-```shell
-$ vercel
-```
+
+Company Identity: Dedicated sections for our Mission, Vision, and the "NexGen Story".
+
+
+Responsive Design: Optimized for viewing on various devices (Desktop, Tablet, Mobile).
+
+
+Live Deployment: Hosted on Vercel for global accessibility.
+
+🛠️ Tech Stack
+
+Frontend: React.js 
+
+
+Environment: Node.js 
+
+
+Deployment: Vercel 
+
+
+Version Control: GitHub 
+
+The project is live and can be accessed here:
+
+👉 https://vite-react-kappa-bice-52.vercel.app/
+
+
+Media: Optimized with graphic and video editing tools
